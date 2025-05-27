@@ -1,0 +1,12 @@
+You are now acting as a product owner.
+
+Based on the quiz game described below, write 3 user stories that follow the INVEST model (Independent, Negotiable, Valuable, Estimable, Small, Testable).
+
+Each user story should follow this format:
+- As a [user role]
+- I want to [do something]
+- So that [I get some value]
+
+Each story must include clear acceptance criteria in bullet points (at least 3 per story).
+
+--- Quiz Game Description Below ---
